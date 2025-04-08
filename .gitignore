@@ -1,0 +1,28 @@
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Compiled binary
+JoyTrack.exe
+
+# Resource object file
+res/icon.res
+
+# Build artifacts
+*.o
+*.obj
+*.dll
+*.pdb
+*.lib
+*.exp
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# VS Code settings (if you're using it)
+.vscode/
+
+# Build folder (if regenerated or unused)
+build/
